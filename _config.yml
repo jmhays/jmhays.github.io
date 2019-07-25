@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jennifer M. Hays"
+title                    : "jennifer m hays"
 title_separator          : "-"
 name                     : &name "Jennifer M. Hays"
 description              : &description "PhD candidate in Biomedical Engineering"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : &name
+  name             : "Jennifer M. Hays"
   avatar           : "profile.png"
-  bio              : &description
+  bio              : "PhD Candidate in Biomedical Engineering"
   location         : 
   employer         : "University of Virginia"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -100,10 +100,10 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
