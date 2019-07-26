@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
-* B.S. in Physics, Summa Cum Laude. College of William & Mary. Jan. 2014. Minor in Mathematics. GPA: 3.84/4.0
+* B.S. in Physics, Summa Cum Laude. College of William and Mary. Jan. 2014. Minor in Mathematics. GPA: 3.84/4.0
 * Ph.D in Biomedical Engineering, University of Virginia, Nov. 2019 (expected)
 
 ## Publications and presentations at scientific meetings
@@ -27,27 +27,27 @@ redirect_from:
   
 ## Scientific experience
 
-* 2018 - present Research Assistant, _University of Virginia_.
+* __2018 - present__ Research Assistant, _University of Virginia_.
   * Development of methods and software for inferring correlations structures of non-parametric spectroscopic data.
   * Supervisor: Dr. Peter Kasson, Department of Molecular Physiology and Biological Physics
 
-* 2017 - 2018 Research Assistant, _University of Virginia_.
+* __2017 - 2018__ Research Assistant, _University of Virginia_.
   * Development of methods and software for improved [hybrid refinement of heterogeneous conformational ensembles](https://jmhays.github.io/publication/2019-06-3-BRER).
   * Supervisor: Dr. Peter Kasson, Department of Molecular Physiology and Biological Physics
 
-* 2015 - 2017 Research Assistant, _University of Virginia_.
+* __2015 - 2017__ Research Assistant, _University of Virginia_.
   * Development of methods and software for [simulation-guided spectroscopy](https://jmhays.github.io/publication/2018-11-05-mRMR).
   * Supervisor: Dr. Peter Kasson, Department of Molecular Physiology and Biological Physics
 
-* 2014 Research Assistant, _University of Virginia_.
+* __2014 Research Assistant__, _University of Virginia_.
   * Machine learning techniques for prediction of antibiotic resistance profiles.
   * Supervisor: Dr. Peter Kasson, Department of Molecular Physiology and Biological Physics
 
-* 2012-2013: Honors Undergraduate Research, _College of William and Mary_.
+* __2012-2013__ Honors Undergraduate Research, _College of William and Mary_.
   * Studied a non-Standard model of electroweak symmetry breaking. Determined bounds on the model based on current data from Large Hadron Collider and analyzed new decay channels.
   * Supervisor: Professor Christopher Carone, Department of Physics.
 
-* 2011 Undergraduate Research, _College of William and Mary_
+* __2011__ Undergraduate Research, _College of William and Mary_
   * Supervisor: Dr. Christopher Benner, Department of Physics.
   * Data analysis of methane spectra emitted from Pluto.
   
