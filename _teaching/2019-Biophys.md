@@ -4,7 +4,7 @@ collection: teaching
 type: "Co-instructor"
 permalink: /teaching/
 venue: "University of Virginia, Department of Biophysics"
-date: 2019-Spring
+date: 2019-01-01
 location: "Charlottesville, VA"
 ---
 

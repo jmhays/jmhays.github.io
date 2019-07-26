@@ -4,7 +4,7 @@ collection: teaching
 type: "TA"
 permalink: /teaching/2018-IDEAS
 venue: "University of Virginia, Department of Biomedical Engineering"
-date: 2018-Fall
+date: 2018-08-01
 location: "Charlottesville, VA"
 ---
 
