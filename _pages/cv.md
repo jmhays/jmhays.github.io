@@ -39,7 +39,7 @@ redirect_from:
   * Development of methods and software for [simulation-guided spectroscopy](https://jmhays.github.io/publication/2018-11-05-mRMR).
   * Supervisor: Dr. Peter Kasson, Department of Molecular Physiology and Biological Physics
 
-* __2014 Research Assistant__, _University of Virginia_.
+* __2014__ Research Assistant, _University of Virginia_.
   * Machine learning techniques for prediction of antibiotic resistance profiles.
   * Supervisor: Dr. Peter Kasson, Department of Molecular Physiology and Biological Physics
 
