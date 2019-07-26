@@ -27,15 +27,29 @@ redirect_from:
   
 ## Scientific experience
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018 - present Research Assistant, _University of Virginia_.
+  * Development of methods and software for inferring correlations structures of non-parametric spectroscopic data.
+  * Supervisor: Dr. Peter Kasson, Department of Molecular Physiology and Biological Physics
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017 - 2018 Research Assistant, _University of Virginia_.
+  * Development of methods and software for improved [hybrid refinement of heterogeneous conformational ensembles](https://jmhays.github.io/publication/2019-06-3-BRER).
+  * Supervisor: Dr. Peter Kasson, Department of Molecular Physiology and Biological Physics
+
+* 2015 - 2017 Research Assistant, _University of Virginia_.
+  * Development of methods and software for [simulation-guided spectroscopy](https://jmhays.github.io/publication/2018-11-05-mRMR).
+  * Supervisor: Dr. Peter Kasson, Department of Molecular Physiology and Biological Physics
+
+* 2014 Research Assistant, _University of Virginia_.
+  * Machine learning techniques for prediction of antibiotic resistance profiles.
+  * Supervisor: Dr. Peter Kasson, Department of Molecular Physiology and Biological Physics
+
+* 2012-2013: Honors Undergraduate Research, _College of William and Mary_.
+  * Studied a non-Standard model of electroweak symmetry breaking. Determined bounds on the model based on current data from Large Hadron Collider and analyzed new decay channels.
+  * Supervisor: Professor Christopher Carone, Department of Physics.
+
+* 2011 Undergraduate Research, _College of William and Mary_
+  * Supervisor: Dr. Christopher Benner, Department of Physics.
+  * Data analysis of methane spectra emitted from Pluto.
   
 ## Teaching
 
