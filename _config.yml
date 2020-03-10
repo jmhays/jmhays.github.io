@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "jennifer m hays"
 title_separator          : "-"
 name                     : &name "Jennifer M. Hays"
-description              : &description "PhD candidate in Biomedical Engineering"
+description              : &description "PhD in Biomedical Engineering"
 url                      : https://jmhays.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jmhays/jmhays.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jennifer M. Hays"
   avatar           : "profile.png"
-  bio              : "PhD Candidate in Biomedical Engineering"
+  bio              : "PhD in Biomedical Engineering"
   location         : 
   employer         : "University of Virginia"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

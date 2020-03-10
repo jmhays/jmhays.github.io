@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 
 * B.S. in Physics, Summa Cum Laude. College of William and Mary. Jan. 2014. Minor in Mathematics. GPA: 3.84/4.0
-* Ph.D in Biomedical Engineering, University of Virginia, Nov. 2019 (expected)
+* Ph.D in Biomedical Engineering, University of Virginia, Nov. 2019 
 
 ## Publications and presentations at scientific meetings
 
